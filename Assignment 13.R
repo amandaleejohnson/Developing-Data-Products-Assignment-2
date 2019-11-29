@@ -1,6 +1,6 @@
 ##Assignment 13 - Developing Data Products
 
-setwd("C:/Users/ajohns34/Box/Data Science Specialization/Assignment 13")
+setwd() #Masked for Github upload
 
 ######################################################
 ##INSTRUCTIONS########################################
