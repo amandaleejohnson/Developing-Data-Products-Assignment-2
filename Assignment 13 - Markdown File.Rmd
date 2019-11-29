@@ -1,6 +1,6 @@
 ---
 title: "Developing Data Products - Assignment 1"
-author: "Amanda Johnson"
+author: "A Johnson"
 date: "September 17, 2019"
 output: html_document
 ---
